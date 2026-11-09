@@ -1,16 +1,14 @@
-## Hi there 👋
-
-<!--
-**didarulilm/didarulilm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+<b>👋 hey, i'm didarul!</b>
+<br />
+<br />
+A generalist at heart. I build across domains to learn fast and contribute wherever I can.
+<br />
+...
+<br />
+<br />
+<a href="https://didarulislam.com/">[Blog]</a><span>&ensp;</span>
+<a href="https://x.com/didarulilm">[X]</a><span>&ensp;</span>
+<a href="https://www.linkedin.com/in/didarulilm/">[LinkedIn]</a><span>&ensp;</span>
+<a href="mailto:didarulislam85@hotmail.com">[Email]</a>
+</div>
