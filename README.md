@@ -4,8 +4,6 @@
 <br />
 A generalist at heart. I build across domains to learn fast and contribute wherever I can.
 <br />
-...
-<br />
 <br />
 <a href="https://didarulislam.com/">[Blog]</a><span>&ensp;</span>
 <a href="https://x.com/didarulilm">[X]</a><span>&ensp;</span>
